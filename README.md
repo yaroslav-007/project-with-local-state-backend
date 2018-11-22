@@ -1,5 +1,5 @@
-# Running simple terraform code
-Running simple terraform code
+# This repo runs terraform code with null provider
+This is simple terraform code with null provider and excluding terraform state files to be reported in git.
  
 ## pre-requirements
 
